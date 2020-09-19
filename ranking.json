@@ -1,0 +1,79 @@
+{
+    "SEGURANCA": {
+        "FIAT 500": 1,
+        "MAREA": 2,
+        "ARGO": 3,
+        "LINEA": 4,
+        "CRONOS": 5,
+        "FIORINO": 6,
+        "TORO": 7,
+        "DUCATO": 8,
+        "RENEGADE": 9
+    },
+    "CONSUMO": {
+        "MAREA": 1,
+        "DUCATO": 2,
+        "TORO": 3,
+        "FIAT 500": 4,
+        "RENEGADE": 5,
+        "FIORINO": 6,
+        "LINEA": 7,
+        "CRONOS": 8,
+        "ARGO": 9
+    },
+    "DESEMPENHO": {
+        "FIAT 500": 1,
+        "FIORINO": 2,
+        "DUCATO": 3,
+        "MAREA": 4,
+        "ARGO": 5,
+        "LINEA": 6,
+        "TORO": 7,
+        "CRONOS": 8,
+        "RENEGADE": 9
+    },
+    "MANUTENCAO": {
+        "FIORINO": 1,
+        "MAREA": 2,
+        "RENEGADE": 3,
+        "TORO": 4,
+        "DUCATO": 5,
+        "CRONOS": 6,
+        "LINEA": 7,
+        "ARGO": 8,
+        "FIAT 500": 9
+    },
+    "CONFORTO": {
+        "MAREA": 1,
+        "FIAT 500": 2,
+        "FIORINO": 3,
+        "TORO": 4,
+        "DUCATO": 5,
+        "ARGO": 6,
+        "LINEA": 7,
+        "CRONOS": 8,
+        "RENEGADE": 9
+    },
+    "DESIGN": {
+        "FIORINO": 1,
+        "DUCATO": 2,
+        "MAREA": 3,
+        "TORO": 4,
+        "LINEA": 5,
+        "ARGO": 6,
+        "FIAT 500": 7,
+        "CRONOS": 8,
+        "RENEGADE": 9
+    },
+    "ACESSORIOS": {
+        "FIORINO": 1,
+        "MAREA": 2,
+        "FIAT 500": 3,
+        "DUCATO": 4,
+        "TORO": 5,
+        "LINEA": 6,
+        "ARGO": 7,
+        "CRONOS": 8,
+        "RENEGADE": 9
+    }
+}
